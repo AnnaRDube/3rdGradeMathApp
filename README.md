@@ -1,2 +1,2 @@
 # 3rdGradeMathApp
-This is a project that I worked on during my break from school. I created this app to help my younger sister learn the multiplication facts. It allows users to select a fact set to focus on. Once a set is chosen, there are two modes, practice and test, that users can chose from.
+This is a project that I worked on during my break from school. I created this app to help my younger sister learn the multiplication facts. This is something she struggles with, so I decided to make an app for her. She helped me during the process by telling me what changes she wanted. The app allows users to select a fact set to focus on. Once a set is chosen, users are able to select practice mode or test mode.
